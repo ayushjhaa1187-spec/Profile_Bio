@@ -1,18 +1,27 @@
-# Profile_Bio
-**Tagline:** Dynamic, link-in-bio engine for centralized professional identity and digital asset showcase.
+# Profile Bio
 
-![build status](https://img.shields.io/badge/build-passing-brightgreen) ![license](https://img.shields.io/badge/license-MIT-blue) ![language](https://img.shields.io/badge/language-JS-yellow)
+> Dynamic, link-in-bio engine for centralized professional identity and digital asset showcase.
 
-# 1. PROJECT BANNER
-- Project name: Profile_Bio
-- Tagline: Dynamic, link-in-bio engine for centralized professional identity and digital asset showcase.
-- Badges: build status · license · language
+![build](https://img.shields.io/badge/build-passing-brightgreen) ![license](https://img.shields.io/badge/license-MIT-blue) ![stack](https://img.shields.io/badge/stack-HTML%20%7C%20CSS%20%7C%20JS-orange)
 
-# 2. THE STORY (40-word short story — REQUIRED)
+## 📖 The Story
 > *"He had ten profiles but no home. Clients were confused. He created Profile Bio. One link. One identity. His full portfolio, social signals, and contact points snapped into a single, beautiful landing page. Now, one click led to his world."*
 
-# 3. WHAT THIS DOES
-A high-performance, mobile-optimized alternative to generic link-in-bio tools. It features custom glassmorphic themes, real-time click analytics, and a direct-contact integration for better lead conversion.
+## ✨ Features
+- **Glassmorphic Theme** — Premium visual design with blur effects and gradients
+- **Mobile-Optimized** — Fully responsive for all screen sizes
+- **Click Analytics** — Track engagement on each link
+- **Direct Contact** — Integrated contact form for lead generation
+- **Custom Branding** — Easily customize colors, fonts, and layout
 
-# 4. TECH STACK
-- HTML5, Vanilla CSS, JS (interactivity).
+## 🛠 Tech Stack
+- HTML5, CSS3 (Glassmorphism), Vanilla JavaScript
+
+## 🚀 Quick Start
+```bash
+git clone https://github.com/ayushjhaa1187-spec/Profile_Bio.git
+# Open index.html in your browser
+```
+
+## 📄 License
+MIT — Built by **ayushjhaa1187-spec**
